@@ -1,3 +1,7 @@
+# Time Series Visualizer
+
+This is an original work inspired by one of the five required projects within the freeCodeCamp() Data Analysis with Python certification. I am responsible for writing all of the code within the time_series_visualizer.py file. The test code was supplied by freeCodeCamp() in order to analyze the required work. Below, you will see the prompt for this programming assignment.
+
 ### Assignment
 
 For this project you will visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
